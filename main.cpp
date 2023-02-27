@@ -3,7 +3,7 @@
 
 int main() {
 
-    std::string name = "Vasya";
+    std::string name = "Petya";
     Util util;
 
     util.printGreeting(name);
